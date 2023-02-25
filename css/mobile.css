@@ -1,0 +1,58 @@
+@media only screen and (max-width: 767.98px) {
+  header {
+    width: 100vw;
+  }
+
+  .flex {
+    margin: 20px 20px;
+  }
+
+  .btn {
+    font-size: 10px;
+    padding: 10px;
+  }
+
+  .between {
+    font-size: 10px;
+  }
+
+  h1 {
+    font-size: 30px;
+    display: inline-block;
+    line-height: 40px;
+  }
+
+  .number {
+    padding: 30px 20px;
+    font-size: 40px;
+  }
+
+  main {
+    width: 100vw;
+    flex-direction: column;
+  }
+
+  /* right */
+  .right > * {
+    margin: 0;
+  }
+
+  .right {
+    margin-top: 40px;
+    line-height: 30px;
+  }
+
+  .message {
+    font-size: 15px;
+  }
+
+  .label-score,
+  .label-highscore {
+    font-size: 15px;
+  }
+
+  .score,
+  .highscore {
+    font-size: 15px;
+  }
+}
